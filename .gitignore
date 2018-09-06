@@ -1,0 +1,16 @@
+
+.vs/Calculator/v14/.suo
+*.db
+*.opendb
+*.log
+*.obj
+Calculator/x64/Debug/Calculator.tlog/Calculator.lastbuildstate
+Calculator/x64/Debug/Calculator.tlog/CL.command.1.tlog
+Calculator/x64/Debug/Calculator.tlog/CL.write.1.tlog
+Calculator/x64/Debug/Calculator.tlog/link.command.1.tlog
+Calculator/x64/Debug/Calculator.tlog/link.read.1.tlog
+Calculator/x64/Debug/Calculator.tlog/link.write.1.tlog
+Calculator/x64/Debug/vc140.pdb
+*.pdb
+*.exe
+*.ilk
